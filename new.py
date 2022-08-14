@@ -8,7 +8,7 @@ import keyboard as kb
 from aiogram.dispatcher.filters.state import State, StatesGroup
 
 
-API_TOKEN = '5222864378:AAE8sLRAfXNyXskpjTOV3kWuHEEfZJ8sWvY'
+API_TOKEN = ''
 
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher import FSMContext
